@@ -1,0 +1,16 @@
+{
+  "name": "amber-state-machine-js",
+  "version": "1.0.0",
+  "description": "Light weight state machine library which contains both NFA and DMA state machines.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "author": "Henri Korpela",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "jest": "^23.6.0"
+  }
+}
