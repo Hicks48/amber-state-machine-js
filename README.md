@@ -1,5 +1,20 @@
 # Amber State Machine
 
+## Description
+Amber state machine is light weight, highly customizable and easy to use state machine library. It has support for non deterministic finite automates (NFA) and deterministic finite automates (DFA).
+
+## Features
+* Create state machines
+* Supports both non deterministic finite automates (NFA) and deterministic finite automates (DFA)
+* Attach code to states
+* Create custom transitions
+* Modify state machines dynamically
+* Execute (Drive) state machines
+* Save and load state machines
+* Save and load drives
+* Hihgly customizable
+* Error handling
+
 ## License
 Copyright 2018 Henri Korpela
 
