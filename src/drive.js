@@ -8,8 +8,4 @@ const schema = Joi.object.keys({
         .required(),
 });
 
-const validate = drive => Joi.validate(drive, schema);
-
-module.exports = {
-    validate,
-};
+module.exports = {};
